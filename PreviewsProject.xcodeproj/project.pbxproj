@@ -13,6 +13,7 @@
 		519778B128F86D42007ED884 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 519778AF28F86D42007ED884 /* Main.storyboard */; };
 		519778B328F86D43007ED884 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 519778B228F86D43007ED884 /* Assets.xcassets */; };
 		519778B628F86D43007ED884 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 519778B428F86D43007ED884 /* LaunchScreen.storyboard */; };
+		519778BE28F86F8F007ED884 /* UIViewController + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 519778BD28F86F8F007ED884 /* UIViewController + Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		519778B228F86D43007ED884 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		519778B528F86D43007ED884 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		519778B728F86D43007ED884 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		519778BD28F86F8F007ED884 /* UIViewController + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController + Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				519778A928F86D42007ED884 /* AppDelegate.swift */,
 				519778AB28F86D42007ED884 /* SceneDelegate.swift */,
 				519778AD28F86D42007ED884 /* ViewController.swift */,
+				519778BD28F86F8F007ED884 /* UIViewController + Extension.swift */,
 				519778AF28F86D42007ED884 /* Main.storyboard */,
 				519778B228F86D43007ED884 /* Assets.xcassets */,
 				519778B428F86D43007ED884 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				519778AE28F86D42007ED884 /* ViewController.swift in Sources */,
 				519778AA28F86D42007ED884 /* AppDelegate.swift in Sources */,
+				519778BE28F86F8F007ED884 /* UIViewController + Extension.swift in Sources */,
 				519778AC28F86D42007ED884 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
